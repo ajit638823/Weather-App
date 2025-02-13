@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  <h1>Live Link <a href="https://64b05ee97d9564470df1aa8a--jazzy-biscochitos-d21016.netlify.app/"><b>Click here</b> </a></h1>
 
 # Weather Web App
@@ -59,3 +60,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 
 Feel free to modify and customize this template according to your specific weather web app.
+=======
+# Weather-App
+>>>>>>> cb47736155adaf67f57f20e763f397a01761cb81
