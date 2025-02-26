@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-#  <h1>Live Link <a href="https://64b05ee97d9564470df1aa8a--jazzy-biscochitos-d21016.netlify.app/"><b>Click here</b> </a></h1>
-
 # Weather Web App
 
 This is a simple weather web app that displays the current weather information for a given location. It is built using HTML, CSS, and JavaScript.
@@ -44,19 +42,13 @@ This is a simple weather web app that displays the current weather information f
 This app utilizes the following APIs:
 
 - OpenWeatherMap API: Used to fetch weather data based on the location input.
-
-## Screenshots
-![Screenshot (239)](https://github.com/ayushspn123/Weather-app/assets/78543116/c9e77695-2763-49f1-9dc9-40f8bb3da9f1)
-
-
+  
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
 Feel free to modify and customize this template according to your specific weather web app.
